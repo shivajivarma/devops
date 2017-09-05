@@ -1,0 +1,4 @@
+### Windows
+```cmd
+ipconfig /flushdns
+```
