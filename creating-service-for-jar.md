@@ -1,4 +1,4 @@
-# Create a ubuntu service.
+# Create a ubuntu service for jar execution.
 a. Create my-application.service file in `/etc/systemd` folder
 
 ```sh
